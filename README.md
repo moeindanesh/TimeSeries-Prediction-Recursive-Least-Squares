@@ -1,4 +1,4 @@
-## Chaotic Time Series Prediction Using Fuzzy Gradient Descent  ##
+## Chaotic Time Series Prediction Using Fuzzy Recursive Least Squares  ##
 
 ### By MoeinDanA ###
 
